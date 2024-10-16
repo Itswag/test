@@ -1,5 +1,5 @@
 {
-							"proQualityAfterEntities": [],
+				
 							"list": [{
 								"qualityId": 1111,
 								"carPersonName": "XXX",
@@ -64,4 +64,4 @@
 								"tenantName": "UJIA recolor",
 								"isAuto": 1
 							}]
-						}
+}
